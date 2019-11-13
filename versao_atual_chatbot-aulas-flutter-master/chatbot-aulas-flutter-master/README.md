@@ -9,7 +9,8 @@ Aplicativo de chatbot
 Tutorial de criação deste app: http://bit.ly/2mDfTBB
 
 <p align="center">
-    <img src="colocar aqui o link das duas imagens que printei" width="800"/>
+    <img src="https://github.com/lucascalu/teste3/blob/master/versao_atual_chatbot-aulas-flutter-master/a1.jpg" width="800"/>
+    <img src="https://github.com/lucascalu/teste3/blob/master/versao_atual_chatbot-aulas-flutter-master/a1.jpg" width="800"/>
 </p>
 
 ## Como clonar e importar
